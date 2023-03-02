@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/Hampfh/morphious/compare/v1.0.4...v1.0.5) (2023-03-02)
+
+
+### Bug Fixes
+
+* Swap to commonJS to make library more backwards compatible ⏮️ ([c536e67](https://github.com/Hampfh/morphious/commit/c536e67a925164326bce9b30f632507e9c1c31f4))
+
 ## [1.0.4](https://github.com/Hampfh/morphious/compare/v1.0.3...v1.0.4) (2023-03-02)
 
 
