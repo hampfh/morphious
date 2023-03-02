@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Hampfh/morphious/compare/v1.0.0...v1.0.1) (2023-03-02)
+
+
+### Bug Fixes
+
+* Update README.md ([9fc2c46](https://github.com/Hampfh/morphious/commit/9fc2c464923a64dfed8601f0730448ed2aca22a7))
+
 ## 1.0.0 (2023-03-02)
 
 
