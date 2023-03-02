@@ -1,6 +1,6 @@
 {
 	"name": "morphious",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A typesafe library for morphing data and grouping functions",
 	"main": "index.js",
 	"type": "module",

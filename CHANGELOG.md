@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Hampfh/morphious/compare/v1.0.1...v1.0.2) (2023-03-02)
+
+
+### Bug Fixes
+
+* Update liscence in pakcage.json 📖 ([42cf41b](https://github.com/Hampfh/morphious/commit/42cf41b6d560cdd018a7f6dd8375781349570137))
+
 ## [1.0.1](https://github.com/Hampfh/morphious/compare/v1.0.0...v1.0.1) (2023-03-02)
 
 
