@@ -2,7 +2,7 @@
 
 A typescript first library for repeatedly changing objects and datasets with as little code as possible. Create function groups through `makeMorth` to prevent bloating your codebase with one-time-use functions. Through this process the type integrity of each anonymous function is kept. Define a mapping once and reuse it in multiple places.
 
-## Installation
+## Installation 🤔
 
 ```bash
 npm install morphious
@@ -10,7 +10,7 @@ yarn add morphious
 pnpm add morphious
 ```
 
-## Usage
+## Usage 🚀
 
 ```typescript
 import { makeMorph } from "morphious"
