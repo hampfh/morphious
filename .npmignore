@@ -1,0 +1,7 @@
+# Ignore config files
+.editorconfig
+.eslintrc.yml
+.prettierrc.yml
+README.md
+
+*.test.*
