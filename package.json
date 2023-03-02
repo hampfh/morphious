@@ -3,18 +3,18 @@
 	"version": "1.0.4",
 	"description": "A typesafe library for morphing data and grouping functions",
 	"main": "build/index.js",
-	"type": "module",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Hampfh/morphious.git"
 	},
 	"scripts": {
 		"build": "tsc",
-		"test": "tsc && node --test"
+		"test": "tsc && jest ./build"
 	},
 	"author": "Hampus Hallkvist",
 	"license": "Apache-2.0",
 	"devDependencies": {
+		"@jest/globals": "^29.4.3",
 		"@typescript-eslint/eslint-plugin": "^5.54.0",
 		"@typescript-eslint/parser": "^5.54.0",
 		"eslint": "^8.35.0",
