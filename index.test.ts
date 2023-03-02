@@ -45,4 +45,23 @@ describe("morph", () => {
 			})
 		)
 	})
+
+	it("morphs multiple groups without problem", () => {
+		const mapping = {
+			add: (x: number, y: number) => x + y,
+			subtract: (x: number, y: number) => x - y
+		}
+		const otherMapping = {
+			multiply: (x: number, y: number) => x * y,
+			divide: (x: number, y: number) => x / y
+		}
+
+		const additiveMorphs = makeMorph(mapping)
+		const multiplicativeMorphs = makeMorph(otherMapping)
+
+		assert.equal(additiveMorphs("add", 1, 2), 3)
+		assert.equal(additiveMorphs("subtract", 1, 2), -1)
+		assert.equal(multiplicativeMorphs("multiply", 1, 2), 2)
+		assert.equal(multiplicativeMorphs("divide", 1, 2), 0.5)
+	})
 })
