@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/Hampfh/morphious/compare/v1.0.3...v1.0.4) (2023-03-02)
+
+
+### Bug Fixes
+
+* Fix typo 📚 ([2051503](https://github.com/Hampfh/morphious/commit/2051503cbcd53161e73882e3c1e1ed728a34e9d0))
+
 ## [1.0.3](https://github.com/Hampfh/morphious/compare/v1.0.2...v1.0.3) (2023-03-02)
 
 
