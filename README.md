@@ -1,6 +1,6 @@
 # Morphious
 
-A typescript first library for repeatedly changing objects and datasets with as little code as possible. Create function groups through `makeMorph` to prevent bloating your codebase with one-time-use functions. Through this process the type integrity of each anonymous function is kept. Define a mapping once and reuse it in multiple places.
+This is a TypeScript library designed to simplify the process of manipulating objects and datasets, with a focus on reducing the amount of code required. With the help of the `makeMorp` function, users can create function groups that minimize the need for one-time-use functions and keep the type integrity of anonymous functions intact. Additionally, the library allows for the definition of mappings that can be reused in multiple places, promoting consistency and efficiency in data transformation.
 
 ## Installation 🤔
 
