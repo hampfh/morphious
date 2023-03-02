@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/Hampfh/morphious/compare/v1.0.2...v1.0.3) (2023-03-02)
+
+
+### Bug Fixes
+
+* Remove unused files from npm 🚮 ([7b2aaf5](https://github.com/Hampfh/morphious/commit/7b2aaf510be01fc1185f9586d4af053d17df676b))
+* Specify main in package.json 📖 ([b61a94e](https://github.com/Hampfh/morphious/commit/b61a94eae146c60b9cc48fdcebbb5148e4e8ff2c))
+
 ## [1.0.2](https://github.com/Hampfh/morphious/compare/v1.0.1...v1.0.2) (2023-03-02)
 
 
